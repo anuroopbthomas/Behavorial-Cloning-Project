@@ -49,9 +49,9 @@ My project includes the following files:
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing
-'''sh
+```sh
 source activate carnd-term1
-'''
+```
 and then driving the car with...
 ```sh
 python drive.py model.h5
